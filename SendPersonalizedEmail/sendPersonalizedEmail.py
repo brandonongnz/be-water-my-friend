@@ -1,7 +1,9 @@
 import sendgrid,datetime
 import csv
 
-'''This script allows you to send personalized emails using an email client called SendGrid. Visit www.brandonongnz.com and look under projects for more information'''
+'''This script allows you to send personalized emails using an email client called SendGrid.'''
+
+
 
 emailList = {}
 
